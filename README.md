@@ -8,15 +8,20 @@
 </font>
 <br>
 
-<font size =4 face=宋体>&emsp;&emsp;下面的图片除了第<font size =4 face=Times New Roman>1</font>张为程序结构图，其余均是程序截图或生成的坐标图。
+<font size =4 face=宋体>&emsp;&emsp;测试文件老是上传失败，需要的朋友自己从<font size =4 face=Times New Roman>[link.txt](./test-data/link.txt)</font>中提供的链接下载。
 </font>
 <br>
 
 <b>
 <font size =6 face=宋体>&emsp;&emsp;<font size =6 face=Times New Roman>PS</font>：合肥工业大学《程序设计与算法训练》（即《数据结构》课程设计）的题目“字符串模式匹配算法比较”可以参考本项目。（毕业老学长奉上，蛤蛤蛤！）
 </font>
-<br>
 </b>
+<br>
+<br>
+
+<font size =4 face=宋体>&emsp;&emsp;下面的图片除了第<font size =4 face=Times New Roman>1</font>张为程序结构图，其余均是程序截图或生成的坐标图。
+</font>
+<br>
 
 <font size =6 face=Times New Roman>&emsp;&emsp;Machine Translation Contents with a Little Personal Polished:
 </font>
@@ -38,6 +43,10 @@
 
 <font size =4 face=Times New Roman>&emsp;&emsp;Batch Mode 2:<br>
 &emsp;&emsp;Use single testbench to test the four algorithms, and then compare the time-consuming of each algorithms.
+</font>
+<br>
+
+<font size =4 face=Times New Roman>&emsp;&emsp;If you need the testbench used during development, please download them yourself from the link provided in [link.txt](./test-data/link.txt).
 </font>
 <br>
 
